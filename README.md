@@ -12,13 +12,10 @@ I am a Computer Science student at the University of Warwick  with a keen intere
 
 ---
 
-* [cite_start]🔭 **I’m currently working on:** Developing and optimizing features for the Pause iOS application, with a focus on enhancing user experience and performance[cite: 28, 29].
+* **I’m currently working on:** Developing and optimizing features for the Pause iOS application, with a focus on enhancing user experience and performance.
 * 🌱 **I’m currently learning about:** Advanced concepts in distributed systems, cloud-native architecture, and high-performance computing.
 * 👯 **I’m looking to collaborate on:** Open-source projects related to backend engineering, data pipelines, or innovative C++ applications.
 * 💬 **Ask me about:** Java, Python, C++, iOS Development, and building scalable backend systems.
-* 📫 **How to reach me:**
-    * [cite_start]**Email:** [mustafamamujee03@gmail.com](mailto:mustafamamujee03@gmail.com) [cite: 2]
-    * [cite_start]**LinkedIn:** [linkedin.com/in/mustafa-mamujee](https://linkedin.com/in/mustafa-mamujee) [cite: 2]
 * ⚡ **Fun fact:** I'm a VR enthusiast and enjoy exploring the latest in immersive technologies.
 
 ---
