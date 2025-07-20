@@ -28,6 +28,10 @@ I am a Computer Science student at the University of Warwick  with a keen intere
 
 ### 🚧 Projects
 
+TCP/IP Stack in C:
+A complete userland TCP/IP stack with simulated network conditions, written in C.
+[https://github.com/Muzzy1489/tcpip-stack]
+
 ### 🎯 Interests
 
 * **Tech:**
