@@ -29,12 +29,13 @@ I am a Computer Science student at the University of Warwick  with a keen intere
 ### 🚧 Projects
 
 TCP/IP Stack:
-A complete userland TCP/IP stack with simulated network conditions, written in C.
 [https://github.com/Muzzy1489/tcpip-stack]
 
 A Mutlithreaded packet sniffer:
-
 [https://github.com/Muzzy1489/Multithreaded-Packet-Sniffer.git]
+
+A C++ Ray Tracer:
+[https://github.com/Muzzy1489/cpp-ray-tracer.git]
 
 ### 🎯 Interests
 
